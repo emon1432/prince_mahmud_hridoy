@@ -54,7 +54,8 @@ ul li a {
 /* Main part start */
 
 main {
-    background-color: #343A40;
+    /* background-color: #343A40; */
+    background-color: black;
     position: fixed;
     /* position: absolute; */
     /* position: relative; */
@@ -179,6 +180,11 @@ footer {
     text-transform: uppercase;
     opacity: .5;
     font-weight: 200;
+}
+
+.emon:hover {
+    color: #1048ff;
+    text-decoration: none;
 }
 
 
