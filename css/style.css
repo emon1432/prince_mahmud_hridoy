@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     /* background-color: black; */
+    font-family: 'Poppins', sans-serif;
 }
 
 .div-clear {
@@ -133,14 +134,37 @@ footer {
     text-decoration: none;
     color: white;
     text-transform: uppercase;
-    opacity: .5;
-    font-weight: 200;
+    /* opacity: .5; */
+    /* font-weight: 200; */
 }
 
 .emon:hover {
-    color: #1048ff;
+    color: blue;
+    background-color: white;
     text-decoration: none;
 }
 
 
 /* Footer part design end*/
+
+.image {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+.about-photo {
+    object-fit: cover;
+    /* width: 100%;
+    height: 100%; */
+}
+
+.about-text {
+    color: rgb(195, 194, 194);
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    text-indent: 50px;
+    margin-bottom: 156px;
+}
