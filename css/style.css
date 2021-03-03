@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    /* background-color: black; */
     font-family: 'Poppins', sans-serif;
 }
 
@@ -11,9 +10,6 @@
 
 #container {
     background-color: black;
-    /* width: max-content; */
-    /* height: 814px; */
-    /* height: 800px; */
 }
 
 .my_navbar {
@@ -46,8 +42,7 @@ ul li a {
     height: 100%;
     margin: 0 auto;
     margin-top: 50px;
-    margin-bottom: 97px;
-    /* box-sizing: border-box; */
+    margin-bottom: 80px;
 }
 
 img {
@@ -56,15 +51,7 @@ img {
     object-fit: contain;
 }
 
-
-/* Main part end */
-
-
-/* Footer part design start*/
-
 footer {
-    /* overflow: hidden; */
-    /* position: fixed; */
     bottom: 0;
     left: 0;
     right: 0;
@@ -121,7 +108,6 @@ footer {
 .socials a:hover i {
     color: aqua;
     background: #1d1d1d;
-    /* text-decoration: none; */
 }
 
 .footer-p {
@@ -134,8 +120,6 @@ footer {
     text-decoration: none;
     color: white;
     text-transform: uppercase;
-    /* opacity: .5; */
-    /* font-weight: 200; */
 }
 
 .emon:hover {
@@ -143,9 +127,6 @@ footer {
     background-color: white;
     text-decoration: none;
 }
-
-
-/* Footer part design end*/
 
 .image {
     height: 300px;
@@ -156,8 +137,6 @@ footer {
 
 .about-photo {
     object-fit: cover;
-    /* width: 100%;
-    height: 100%; */
 }
 
 .about-text {
