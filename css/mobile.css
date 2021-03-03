@@ -119,3 +119,11 @@ footer {
     height: 100%;
     text-indent: 50px;
 }
+
+.gallery {
+    margin: 10px 10px;
+}
+
+.gallery img {
+    width: 200px;
+}
